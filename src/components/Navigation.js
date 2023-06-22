@@ -168,6 +168,7 @@ const scrollTo = (id) => {
                     <MenuItem onClick={() => scrollTo('showcase')} >Slides</MenuItem>
                     <MenuItem onClick={() => scrollTo('team')} >Art Gallery</MenuItem>
                     <MenuItem onClick={() => scrollTo('faq')} >Biography</MenuItem>
+                    <MenuItem onClick={() => scrollTo('hire')} >Hire Me</MenuItem>
                     <MenuItem >
                     <div className="mobile">
                     <Button text="Contact" link="mailto:sylvenshi@gmail.com" />

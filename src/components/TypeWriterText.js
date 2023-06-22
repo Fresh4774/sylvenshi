@@ -97,7 +97,7 @@ const TypeWriterText = () => {
     .typeString('<span class="text-2">Anime Artist!</span>')
     .pauseFor(1000)
     .deleteAll()
-    .typeString('<span class="text-3">Contant Learner!</span>')
+    .typeString('<span class="text-3">Constant Learner!</span>')
     .pauseFor(1000)
     .deleteAll()
     .start()
